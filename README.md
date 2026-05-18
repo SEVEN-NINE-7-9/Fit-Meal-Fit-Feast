@@ -1,4 +1,4 @@
-# FitMeal
+# FitMeal/FitFeast
 
 FitMeal is an AI-driven Fitness Nutrition & Personalized Meal Delivery Platform that combines smart diet planning, meal tracking, live dietitian consultations, and healthy meal ordering in one ecosystem.
 
